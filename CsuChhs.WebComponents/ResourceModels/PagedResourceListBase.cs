@@ -18,6 +18,6 @@
         public int TotalCollectionCount { get; set; }
 
         public int TotalPages => (TotalCollectionCount + Take - 1) / Take;
-        List<T> Items { get; set; }
+        public List<T> Items { get; set; }
     }
 }
