@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>CHHS Application Development Team</Authors>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <PackageProjectUrl>https://github.com/csu-chhs/CsuChhs.WebComponents</PackageProjectUrl>
     <Company>College of Health and Human Sciences</Company>
     <PackageId>CsuChhs.WebComponents</PackageId>
