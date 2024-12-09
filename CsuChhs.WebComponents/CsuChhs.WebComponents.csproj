@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>CHHS Application Development Team</Authors>
-    <Version>1.0.6</Version>
+    <Version>1.0.7</Version>
     <PackageProjectUrl>https://github.com/csu-chhs/CsuChhs.WebComponents</PackageProjectUrl>
     <Company>College of Health and Human Sciences</Company>
     <PackageId>CsuChhs.WebComponents</PackageId>
@@ -16,7 +16,6 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="8.*" />
     <None Include="../README.md" Pack="true" PackagePath="\" />
 	</ItemGroup>
 </Project>
